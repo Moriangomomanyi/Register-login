@@ -34,7 +34,7 @@ if ($conn->query($sql) === TRUE) {
 } else {
     echo "Error: " . $sql . "<br>" . $conn->error;
 }
-       // Close the database connection
+       // Close the connection
 mysqli_close($conn);
 }
 ?>

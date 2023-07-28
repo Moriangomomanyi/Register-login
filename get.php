@@ -4,7 +4,7 @@ $username = "root";
 $password = "";
 $database = "projo";
 
-// Create a connection
+// Create a connection with the database
 $conn = new mysqli($servername, $username, $password, $database);
 
 // Check the connection

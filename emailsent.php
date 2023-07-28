@@ -1,1 +1,1 @@
-The Password Reset Email Has Been Sent Successfully.
+The Password Reset Email Has Been Sent Successfully To Your Email.
